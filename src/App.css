@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  color: #fff;
+}
+.App{
+  background-image: url('./Images/To-Do-Background.jpg');
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vw;
+  position: fixed;
+}
+
+
